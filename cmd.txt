@@ -1,0 +1,10 @@
+npx create-expo-app@latest -e with-router ./
+npm install expo-font axios react-native-dotenv
+npm install -g expo-cli
+npm install react-native-geolocation-service --save
+expo-cli start --tunnel
+
+password user -> akubisa
+
+["#bdc7d7", "#5087f7", "#120b8f", "#8bcff1", "#b1dfe6"]
+npx expo install expo-image-picker
